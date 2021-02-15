@@ -1,0 +1,13 @@
+D:\DATA\Codigo\C#\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.exe
+D:\DATA\Codigo\C#\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.deps.json
+D:\DATA\Codigo\C#\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.runtimeconfig.json
+D:\DATA\Codigo\C#\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.runtimeconfig.dev.json
+D:\DATA\Codigo\C#\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.dll
+D:\DATA\Codigo\C#\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.pdb
+D:\DATA\Codigo\C#\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.csprojAssemblyReference.cache
+D:\DATA\Codigo\C#\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.AssemblyInfoInputs.cache
+D:\DATA\Codigo\C#\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.AssemblyInfo.cs
+D:\DATA\Codigo\C#\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.csproj.CoreCompileInputs.cache
+D:\DATA\Codigo\C#\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.dll
+D:\DATA\Codigo\C#\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.pdb
+D:\DATA\Codigo\C#\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.genruntimeconfig.cache
